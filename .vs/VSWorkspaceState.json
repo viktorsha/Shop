@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Shop",
+    "\\Shop\\Data",
+    "\\Shop\\Data\\Interfaces",
+    "\\Shop\\Data\\mocks",
+    "\\Shop\\Data\\Models",
+    "\\Shop\\Data\\Repository",
+    "\\Shop\\ViewModels",
+    "\\Shop\\Views",
+    "\\Shop\\Views\\Cars",
+    "\\Shop\\wwwroot"
+  ],
+  "SelectedNode": "\\Shop\\Shop.csproj",
+  "PreviewInSolutionExplorer": false
+}
